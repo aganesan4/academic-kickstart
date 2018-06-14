@@ -8,33 +8,15 @@ date = 2016-04-20T00:00:00
 weight = 5
 
 # List your academic interests.
-[interests]
-  interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
-  ]
-
-# List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
+#[interests]
+#  interests = [
+#    "Distributed Systems",
+#    "Storage and File Systems",
+#    "Operating Systems",
+#    "Networks and Mobile Computing"
+#  ]
 +++
 
-# Biography
+<p> I am a third year Ph.D. student in Computer Sciences at the University of Wisconsin, Madison. My advisors are <a href="http://pages.cs.wisc.edu/~dusseau" target="_blank">Prof. Andrea Arpaci-Dusseau</a> and <a href="http://pages.cs.wisc.edu/~remzi" target="_blank">Prof. Remzi Arpaci-Dusseau</a>. My research interests include file and storage systems and distributed systems.</p>
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Before this, I was a Research Assistant in the <a href="http://research.microsoft.com/en-us/groups/mns/default.aspx" target="_blank">Mobility, Networks and Systems</a> group at Microsoft Research India and my mentors were <a href="http://research.microsoft.com/en-us/people/krchinta/" target="_blank">Dr. Krishna Chintalapudi</a> and <a href="http://research.microsoft.com/en-us/people/padmanab/" target="_blank">Dr. Venkat Padmanabhan</a>. I graduated with a Masters degree from Indian Institute of Technology, Bombay where I worked with <a href="http://www.cse.iitb.ac.in/~sudarsha/" target="_blank">Prof. S.Sudarshan</a> in databases.

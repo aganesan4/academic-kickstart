@@ -11,6 +11,8 @@ list_format = 0
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = ""
-caption = ""
+album = "1"
+image = "my_image.jpg"
+caption = "Write your image caption here"
 +++
+
